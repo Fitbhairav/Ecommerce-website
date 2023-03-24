@@ -1,5 +1,5 @@
 # Ecommerce-website by Bhairav Jangid
-**In this project I was implemented Payment Gateway with 100% Auhtentication process.**__
+**In this project I was implemented Payment Gateway with 100% Auhtentication process.** <br />
 Here is the GUI of ecommerce website- 
 
 ![Screenshot (84)](https://user-images.githubusercontent.com/114358084/227484746-473f82c6-82c0-46dd-bca1-8e6fa8c6243f.png)
