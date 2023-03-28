@@ -11,3 +11,5 @@ Here is the GUI of Product list on website- <br />
 Here is the GUI for Checkout for buying product-
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/114358084/227500434-1c148397-401f-4c32-b545-ad977dc5e195.png)
+
+For security purpose i can't share MID in code for payment processing.
