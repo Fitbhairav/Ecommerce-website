@@ -1,4 +1,4 @@
-# Ecommerce-website by Bhairav Jangid
+# E-commerce Website by Bhairav Jangid
 <font size="25"> **In this project I was implemented PayTm Payment Gateway and 100% Auhtentication service.** </font> <br />
 Here is the GUI of ecommerce website- <br />
 ![Screenshot (93)](https://user-images.githubusercontent.com/114358084/227500347-11d7857e-0ef4-4118-8f13-181ada3fa345.png)
